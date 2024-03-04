@@ -4,6 +4,7 @@ import { FaDownload } from "react-icons/fa6";
 import { motion } from "framer-motion";
 import { FaLinkedin } from "react-icons/fa";
 import './card.css';
+
 const Card = ({ data, reference }) => {
   return (
     <motion.div
